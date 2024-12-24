@@ -1,4 +1,4 @@
-- Họ Tên: NgÔ VĂN ĐỨC
+- Họ Tên: NGÔ VĂN ĐỨC
 - Lớp-Khóa: Kĩ Thuật Robot và AI - K65
 - Mã SV: 243324698
 - Chụp bài thực hành
